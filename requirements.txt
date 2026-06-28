@@ -1,0 +1,6 @@
+streamlit
+pandas
+deep-translator
+firebase-admin
+google-cloud-firestore
+requests
